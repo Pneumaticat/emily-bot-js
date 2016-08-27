@@ -62,4 +62,4 @@ bot.on('debug', e => {console.info(e); });
 
 
 
-bot.loginWithToken("MjE4OTE5ODU5NDgyNzg3ODQw.CqKMhQ.zkd1BIByhHHeqripVvBTa8MSqPk");
+bot.loginWithToken("censored");
