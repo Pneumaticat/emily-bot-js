@@ -15,3 +15,6 @@ This program is under the GNU General Public License v3.0 (GNU GPLv3)
 You can get more information about GNU General Public License v3.0 by visiting this magical website: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Hmm, you may or may not be able to read that... Here is a human-readable version for all you who cannot: https://www.gnu.org/licenses/quick-guide-gplv3.en.html
+
+#Credits
+- nitroignika
