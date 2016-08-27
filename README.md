@@ -1,6 +1,6 @@
 # Emily Bot
 
-An open-source bot for discord coded in discord.net! The official bot for the Fyre United CSGO clan and their discord server. The bot is a multipurpose bot meant to help out the server.
+An open-source bot for discord coded in discord.net! The official bot for the Fyre United CSGO clan and their discord server. The bot is a multipurpose bot meant to help out the server. The bot is still in heavy development and as much help as possible is needed. So if you want to help and add features, go ahead!
 
 - Discord.js - http://goo.gl/SkO3cN
 - Documentation - http://goo.gl/z530Dl
